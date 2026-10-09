@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Azaria 👋
 
-<!--
-**Azaariya/Azaariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical and Computer Engineering Student | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a fourth-year Electrical and Computer Engineering student at **Addis Ababa Science and Technology University**, passionate about building practical, user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into interactive digital experiences while continuously improving my skills in frontend development and modern web technologies.
+
+## 🛠️ Technologies & Tools
+
+* **Frontend:** HTML, CSS, JavaScript, React
+* **Development Tools:** Git, GitHub, VS Code, Vite
+* **Currently Learning:** Advanced React concepts and modern frontend development practices
+
+## 🚀 Featured Projects
+
+### 📚 StudyAI
+
+An AI-powered study assistant designed to help students learn through document-based study tools, AI tutoring, quizzes, and flashcards.
+
+### 🎬 Movie Seat Booking
+
+An interactive movie application featuring movie discovery, showtimes, seat selection, and booking management.
+
+### 🌦️ Weather Dashboard
+
+A weather application that retrieves weather information and presents it through a user-friendly interface.
+
+### 💪 Workout Tracker
+
+A React application for organizing and tracking workouts.
+
+### 💰 Expense Tracker
+
+A personal finance application for recording and managing income and expenses.
+
+### 🏦 Bank App
+
+A web application project focused on banking-related interfaces and functionality.
+
+*Explore my GitHub repositories for more projects and experiments.*
+
+## 🎯 Current Goals
+
+* Build more complete and polished React applications.
+* Improve my JavaScript and frontend development skills.
+* Write cleaner, more maintainable code.
+* Learn new technologies by building practical projects.
+
+## 📫 Connect With Me
+
+* **GitHub:** [@Azaariya](https://github.com/Azaariya)
+
+Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
