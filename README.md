@@ -14,10 +14,6 @@ I enjoy turning ideas into interactive digital experiences while continuously im
 
 ## 🚀 Featured Projects
 
-### 📚 StudyAI
-
-An AI-powered study assistant designed to help students learn through document-based study tools, AI tutoring, quizzes, and flashcards.
-
 ### 🎬 Movie Seat Booking
 
 An interactive movie application featuring movie discovery, showtimes, seat selection, and booking management.
