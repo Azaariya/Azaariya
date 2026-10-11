@@ -82,5 +82,7 @@ Explore my [GitHub repositories](https://github.com/Azaariya) to discover more p
 ## 📫 Connect With Me
 
 * **GitHub:** [@Azaariya](https://github.com/Azaariya)
+* **LinkedIn:** [linkedin.com/in/azariya-ameha](https://www.linkedin.com/in/azariya-ameha/)
+* **Portfolio:** [Visit My Portfolio](https://azaria-portfolio-three.vercel.app/)
 
 Thanks for visiting my profile! Feel free to explore my projects and follow my journey as I continue learning and building.
