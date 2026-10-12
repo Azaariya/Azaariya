@@ -65,9 +65,11 @@ A personal finance application for recording income and expenses and monitoring 
 
 ## 📚 Other Projects
 
-* 🏦 **Bank App** — Practice account creation, login, deposits, withdrawals, and transaction history.
+* 📊 **Nexus Financial — Analytics Dashboard:** A responsive financial dashboard for monitoring transactions, analyzing financial trends, tracking budgets, and managing savings goals.
+
+[View Repository](https://github.com/Azaariya/bank-analytics-dashboard) · [Live Demo](https://analytic-dashboard-opal.vercel.app/)
+
 * 🎵 **Music Player** — Search for music and play available previews.
-* ✅ **Todo List** — A task management application.
 
 Explore my [GitHub repositories](https://github.com/Azaariya) to discover more projects.
 
